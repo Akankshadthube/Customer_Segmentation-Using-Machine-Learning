@@ -16,6 +16,6 @@ Feature Engineering: Extract and create relevant features from the data to impro
 
 Model Training: Train machine learning models, such as clustering algorithms (e.g., K-means, hierarchical clustering), to segment customers into distinct groups.
 
-Evaluation Metrics: Evaluate the performance of the segmentation models using appropriate metrics, such as silhouette score, inertia, or silhouette analysis.
+Evaluation Metrics: Evaluate the performance of the segmentation models using appropriate metrics.
 
 Visualization: Visualize the results of customer segmentation to facilitate interpretation and decision-making.
